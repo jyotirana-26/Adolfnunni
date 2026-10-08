@@ -1,2 +1,0 @@
-# shrishti wadhwa
-hackathon
